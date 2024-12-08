@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_YOUTUBE_API_KEY'; // YouTube API 키를 여기에 입력하세요
+const API_KEY = 'AIzaSyDIDOLfYVNHqFGfqkN3xNyAweG_R572ZcE'; // YouTube API 키를 여기에 입력하세요
 
 document.getElementById('searchButton').addEventListener('click', searchVideos);
 document.getElementById('searchInput').addEventListener('keypress', (e) => {
